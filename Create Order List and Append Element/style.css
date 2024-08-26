@@ -1,0 +1,41 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    font-family: 'Cascadia Code';
+    text-align: center;
+}
+
+.container {
+    margin: 20px;
+    width: 20%;
+    height: 400px;
+    background-color: rgba(230, 100, 20, 0.4);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.sub_div {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#inputItems {
+    padding: 5px;
+    border: none;
+}
+
+#btn {
+    padding: 8px 50px;
+    border: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: gray;
+    color: aliceblue;
+    box-shadow: yellowgreen;
+}
